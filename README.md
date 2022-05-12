@@ -3,3 +3,5 @@ Cubesharp is a Unity project developed with C# following Brackeys - Unity for Be
 
 In game printscreen:
 ![ingame](https://i.imgur.com/EQ30pDT.png)
+
+The gameplay is very simple, the red cube moves at high speed in order to dodge the gray obstacles until you reach the end of the level.
